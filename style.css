@@ -1,0 +1,22 @@
+body {
+    background-color: antiquewhite;
+    color: rgb(180, 117, 35);
+}
+input {
+    margin-top: 5px;
+    border-radius: 5px;
+}
+.btn_submit {
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: rgb(97, 61, 14);
+    color: white;
+}
+.btn_reset {
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: rgb(97, 61, 14);
+    color: white;
+}
